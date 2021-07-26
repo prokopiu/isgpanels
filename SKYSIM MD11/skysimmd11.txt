@@ -1,0 +1,8 @@
+Hi,
+  
+ the panel.cfg must be replace in PANEL folder in the SKYSIM MD-11 Aircraft folder.
+ You need to have the SKYSIM MD-11 and the payware ISG gauges properly installed.
+  
+ For P3D v4 you need to get the updated ISG gauge for it to work.
+  
+Kosta

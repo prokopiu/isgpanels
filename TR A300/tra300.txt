@@ -1,0 +1,9 @@
+Hi,
+  
+ the Panel.cfg and the ISG config file to go in the respective Panel Folder (e.g. Panel.GE) of the A300.
+ You need to have the Thomas Ruth A300 and/or A310 with the VC and the payware ISG gauges properly installed.
+  
+ For P3D v4 you need to get the updated ISG gauge for it to work.
+  
+ Cheers
+ Kosta
